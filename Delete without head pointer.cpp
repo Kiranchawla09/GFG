@@ -1,3 +1,4 @@
+// deleting without head pointer
 void deleteNode(Node *node)
 {
   struct Node*ptr= node->next;

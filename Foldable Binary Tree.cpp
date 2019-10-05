@@ -1,3 +1,4 @@
+//Foldable Binary tree
 int same(node *n1,node*n2)
 {
 if(n1==NULL && n2==NULL)

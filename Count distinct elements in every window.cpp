@@ -1,3 +1,4 @@
+// Counting 
 void countDistinct(int A[], int k, int n)
 {
     int count=0;
